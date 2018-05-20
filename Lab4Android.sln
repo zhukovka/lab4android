@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4Android.Android", "Lab4Android\Lab4Android.Android\Lab4Android.Android.csproj", "{D5903DFE-8260-400E-82B3-1729DD1B6F03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4Android", "Lab4Android\Lab4Android\Lab4Android.csproj", "{6A012D60-7126-4E19-8525-0084D72D7A99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4Android", "Lab4Android\Lab4Android\Lab4Android.csproj", "{6A012D60-7126-4E19-8525-0084D72D7A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumbersLib", "CountNumbersLib\CountNumbersLib.csproj", "{32F08C6E-1052-41CC-9669-7AD27ED780FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{6A012D60-7126-4E19-8525-0084D72D7A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A012D60-7126-4E19-8525-0084D72D7A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A012D60-7126-4E19-8525-0084D72D7A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F08C6E-1052-41CC-9669-7AD27ED780FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F08C6E-1052-41CC-9669-7AD27ED780FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F08C6E-1052-41CC-9669-7AD27ED780FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F08C6E-1052-41CC-9669-7AD27ED780FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
